@@ -48,4 +48,18 @@ body {
   background: transparent;
   border: 0;
   font-size: 20px;
+  color: #fff;
 }
+
+.circle button:focus {
+  outline: none;
+}
+
+.circle button#open {
+  left: 60%;
+}
+
+.circle button#close {
+  top: 60%;
+}
+
